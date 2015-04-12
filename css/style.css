@@ -79,6 +79,17 @@ body {
     font-size: 3rem;
     font-weight: 300;
 }
+.header button {
+    width: 9.688rem;
+    background-color: green;
+    border-color: yellow;
+    text-shadow: none;
+    border-style: none;
+    border-radius: 4px;
+    padding: 1rem 1.5rem;
+    color: white;
+    font-size: 1.125rem;
+}
 .choices ul {
     text-align: center;
     color: blue;
