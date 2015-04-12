@@ -72,3 +72,8 @@ table {
     height: 50rem;
     overflow: auto;
 }
+.app h1 {
+    color: blue;
+    text-align: center;
+    font-weight: 300;
+}
