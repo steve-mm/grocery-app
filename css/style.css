@@ -59,14 +59,16 @@ table {
 /* End Reset */
 
 /* Start Custom Styles */
+.content {
+    padding: 0 1rem;
+    margin: 0 auto;
+    min-width: 37.5rem;
+}
 .app {
     background-image: url('../images/flickr_RandomRetail_light.jpg');
     background-position: center;
     background-repeat: repeat-y;
     background-size: cover;
+    height: 50rem;
     overflow: auto;
 }
-.app > .content {
-    margin: 0 auto;
-}
-
