@@ -97,4 +97,8 @@ body {
     font-weight: 300;
     padding: 1rem;
 }
+.choices button {
+    width: 20em;
+    height: 2em;
+}
 
