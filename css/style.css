@@ -92,15 +92,14 @@ body {
 }
 .choices form {
     text-align: center;
-    color: blue;
-    font-size: 2.5rem;
-    font-weight: 300;
-    padding: 0.5rem 0.5rem;
-}
+ }
 .choices button {
     width: 16rem;
     height: 4rem;
     background: yellow;
     border-radius: 2rem;
+    padding: 0.5rem 0.5rem;
+    color: blue;
+    font-size: 2.5rem;
 }
 
