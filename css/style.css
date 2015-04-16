@@ -88,7 +88,7 @@ body {
     border-radius: 1rem;
     padding: 1rem 1rem;
     color: white;
-    font-size: 1.125rem;
+    font-size: 2rem;
 }
 .choices form {
     text-align: center;
@@ -101,7 +101,7 @@ body {
     border-radius: 2rem;
     padding: 0.5rem 0.5rem;
     color: blue;
-    font-size: 2.5rem;
+    font-size: 2rem;
 }
 input[type=checkbox] {
 
