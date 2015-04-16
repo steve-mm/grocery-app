@@ -94,7 +94,7 @@ body {
     text-align: center;
  }
 .choices button {
-    margin: 1rem auto;
+    margin: 0.5rem auto;
     width: 16rem;
     height: 4rem;
     background: yellow;
@@ -102,5 +102,13 @@ body {
     padding: 0.5rem 0.5rem;
     color: blue;
     font-size: 2.5rem;
+}
+input[type=checkbox] {
+
+ -ms-transform: scale(2); /* IE */
+ -moz-transform: scale(2); /* FF */
+ -webkit-transform: scale(2); /* Safari and Chrome */
+ -o-transform: scale(2); /* Opera */
+  padding: 10px;
 }
 
