@@ -61,7 +61,7 @@ table {
 /* Start Custom Styles */
 .content {
     padding: 0 1rem;
-    margin: 1 auto;
+    margin: 0 auto;
     min-width: 37.5rem;
 }
 body {
@@ -94,6 +94,7 @@ body {
     text-align: center;
  }
 .choices button {
+    margin: 1rem auto;
     width: 16rem;
     height: 4rem;
     background: yellow;
